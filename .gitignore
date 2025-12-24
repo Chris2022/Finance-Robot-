@@ -1,0 +1,24 @@
+# dependencies
+node_modules
+client/node_modules
+server/node_modules
+
+# builds
+dist
+build
+.vite
+
+# env files
+.env
+.env.local
+
+# logs
+npm-debug.log*
+yarn-debug.log*
+pnpm-debug.log*
+
+# OS
+.DS_Store
+
+# TS
+*.tsbuildinfo
